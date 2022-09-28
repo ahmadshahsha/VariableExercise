@@ -47,4 +47,4 @@ let letters = "qwertyuiop";
 console.log(letters, [letters.length - 1]);
 
 console.log(letters.length);
-console.log(letters[9]);
+console.log(letters[8]);
